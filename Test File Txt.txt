@@ -1,0 +1,60 @@
+What is the shareholder ledger?
+Lists information about the historical stock transactions (purchases, stock forfeitures and exchanges) and existing stockholders
+
+What is a Cap Table?
+A visual representation of ownership in the company
+https://d33ypg4xwx0n86.cloudfront.net/direct?url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*2suV-ZyCt4dUnAvjTTeWnA.png&resize=w512
+
+What are the two most common securities used to raise capial for startups?
+Convertible debt and preferred stock
+
+When is convertible debt most often used?
+1) When a company is early stage and wants to avoid pricing
+2) When a company is getting low on cash but hasn't reached an appropriate milestone to raise a new round, get acquired, or go public. Existing companies can "bridge" the company till they get to next milestone
+
+What are the major economic terms of a convertible note?
+
+What is a common discount for convertible debt to convert to equity?
+
+What are the key economic components of preferred stock?
+
+What is a typical VC dividend rate on preferred stock?
+
+What are the 2 types of preferred dividends?
+
+What is the difference between cumulative and non-cumulative preffered stock?
+
+What are preferred share liquidation preferences?
+
+What are the 2 types of preferred liquidation preferences?
+
+What is the difference between non-participating and participating liquidation preference?
+
+What are control privileges for preferred shares?
+
+When does the liquidation preference come into effect?
+
+https://getpocket.com/a/read/1909572190
+
+What are the key terms to negotiate in an early stage startup deal?
+Founder Vesting
+Antidilution protection
+Board Seats
+Liquidation preference
+Exclusivity - company doesn't talk to other investors for some time after you sign term sheet
+Dilution
+Veto rights, aka protection provisions, such as right to veto future financings
+Valuation
+-Mnemonic - Fabled double V
+
+What are the various ways to structure board membership as an investor?
+What type of board member - Board member, Advisory board, Board Observer
+How long that person is board member for - Time bound (12 months) or even dependent (maybe they are kicked off board at later financing)
+
+How does adding option pool to the pre-money valuation impact the value the company?
+It lowers the share price by increasing the number of shares per company valuation
+
+
+
+Other questions
+Forms of antidiultion common?
